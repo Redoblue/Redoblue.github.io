@@ -1,18 +1,18 @@
 # Site settings
-title: "Agustinus Kristiadi's Blog"
+title: "Redoblue's Blog"
 header-img: "img/home-bg.jpg"
-email: "kristiadi@pm.me"
+email: "redoblue@hotmail.com"
 description: ""
 baseurl: ""
-url: "http://wiseodd.github.io"
-github_username: "wiseodd"
+url: "http://redoblue.github.io"
+github_username: "Redoblue"
 
 # Build settings
 markdown: "kramdown"
 highlighter: "rouge"
 permalink: "pretty"
 paginate: 10
-timezone: "Europe/Berlin"
+timezone: "Asia/Beijing"
 exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md"]
 plugins: ["jekyll-paginate", "jekyll-sitemap"]
 
