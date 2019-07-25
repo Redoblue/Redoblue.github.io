@@ -4,7 +4,7 @@ title:      "Journey to the West"
 subtitle:   "Some stories from my last winter solo trip to China. I traveled from Far East China to Far West China, which means that it was my Journey to the West."
 date:       2015-09-19 06:49:00
 author:     "wiseodd"
-category:   travel
+category:   life
 tags:       [china, photo essay]
 ---
 
